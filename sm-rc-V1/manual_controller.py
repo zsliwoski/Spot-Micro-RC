@@ -1,3 +1,6 @@
+# This script is an interface for a wireless controller (e.g., PS4 controller) using the pyPS4Controller library.
+# It defines a class RobotController that handles various button presses and joystick movements.
+# The script also includes functions to connect and disconnect from the controller, as well as a global input structure to store the state of various inputs.
 from pyPS4Controller.controller import Controller
 
 input_struct = {

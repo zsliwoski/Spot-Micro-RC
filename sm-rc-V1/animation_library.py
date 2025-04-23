@@ -569,7 +569,7 @@ anim_walk_bl = [
     "L_B_knee" : 0,
     }
 ]
-#FROM STAND THIS COULD MAKE A USEFUL WALK REF :)
+#FROM STAND THIS COULD MAKE A USEFUL WALK REF
 '''anim_roll_left = {
     "R_F_back" : 5,
     "L_F_back" : 45,

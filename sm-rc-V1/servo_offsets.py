@@ -1,4 +1,4 @@
-#used for compensating servo defects/bum ass installation
+#used for compensating servo defects/installation
 offset_base = {
     "R_F_back" : 40,
     "L_F_back" : 100,
